@@ -36,3 +36,4 @@ https://www.freeproxychecker.com/result/http_proxies.txt
 https://www.proxy-list.download/api/v1/get?type=http
 https://www.proxy-list.download/api/v1/get?type=https
 https://www.proxyscan.io/download?type=http
+https://rcloak.com/api/proxies/raw?protocol=http
