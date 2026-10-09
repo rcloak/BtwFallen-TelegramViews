@@ -17,3 +17,4 @@ https://spys.me/socks.txt
 https://www.freeproxychecker.com/result/socks4_proxies.txt
 https://www.proxy-list.download/api/v1/get?type=socks4
 https://www.proxyscan.io/download?type=socks4
+https://rcloak.com/api/proxies/raw?protocol=socks4
